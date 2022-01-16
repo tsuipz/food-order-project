@@ -14,3 +14,4 @@ This project is built to display Meals Items and a Cart. This demostrates the ho
 ## Technologies
 
 - React
+- Firebase
